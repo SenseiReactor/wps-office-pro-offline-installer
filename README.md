@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
-<img width="2880" height="1620" alt="WPS Office Pro interface" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Microsoft_Office_Professional_2021_Apps.png/1280px-Microsoft_Office_Professional_2021_Apps.png" />
+<img width="2880" height="1620" alt="WPS Office Pro interface" src="https://windows-cdn.softpedia.com/screenshots/48/WPS-Office_1.jpg" />
 </div>
 
 ---
